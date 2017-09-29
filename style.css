@@ -1,0 +1,25 @@
+.name {
+	font-size: 24px;
+	float: left;
+	margin: 0 0 0 50px;
+}
+
+.contact {
+	float: right;
+	margin: 0 50px 0 0;
+}
+
+.border {
+	width: 960px;
+	height: 1000px;
+	margin: 0 0 0 220px;
+	overflow: hidden;
+	background-color: gray;
+}
+
+hr {
+	color: black;
+	width: 860px;
+	display: block;
+	margin: 75px 0 0 -200px;
+}
