@@ -2,6 +2,25 @@
 	font-size: 24px;
 	float: left;
 	margin: 0 0 0 50px;
+	position: absolute;
+}
+
+.border1 {
+	color: black;
+	border-top: 0.1px solid black;
+	width: 850px;
+	border-style: solid;
+	margin: 75px 0 0 50px;
+	position: absolute;
+}
+
+.border2 {
+	color: black;
+	border-top: 0.1px solid black;
+	width: 850px;
+	border-style: solid;
+	margin: 0px 0 0 50px;
+	position: absolute;
 }
 
 .contact {
@@ -17,9 +36,11 @@
 	background-color: gray;
 }
 
-hr {
-	color: black;
-	width: 860px;
-	display: block;
-	margin: 75px 0 0 -200px;
+h2 {
+	text-align: center;
+}
+
+.goals {
+	margin: 100px 0 0 0;
+	text-align: center;
 }
